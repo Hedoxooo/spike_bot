@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.local
+
+# Logs
+*.log
+spike_bot.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
