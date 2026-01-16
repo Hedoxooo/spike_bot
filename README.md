@@ -14,7 +14,7 @@ A real-time notification bot that monitors ~600 Polymarket markets and alerts yo
 
 1.  **Clone the repo**:
     ```bash
-    git clone https://github.com/yourusername/spike-bot.git
+    git clone https://github.com/Hedoxooo/spike-bot.git
     cd spike-bot
     ```
 
